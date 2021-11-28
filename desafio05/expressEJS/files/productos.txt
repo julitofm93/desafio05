@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Prueba",
+    "price": "121",
+    "thumbnail": "http://localhost:8080/images/1638131128378image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Prueba2",
+    "price": "121",
+    "thumbnail": "http://localhost:8080/images/1638131171850image.jpg"
+  }
+]
